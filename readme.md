@@ -6,3 +6,5 @@ I had to develop one myself.
 
 In this implementation, I use the classic Baum-Welch algorithm, itself derived from the
 Expectation-Maximization (EM) algorithm.
+
+![A simple HMM framework](resource/images/hmm.pdf)
